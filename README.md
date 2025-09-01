@@ -1,16 +1,14 @@
-# flutter_application_1
+# Praktikum 1
 
-A new Flutter project.
+1. Praktikum text widget
+2. Praktikum image widget
+3. Praktikum kombinasi image dan text
 
-## Getting Started
+# Tahapan kombinasi images dan text
 
-This project is a starting point for a Flutter application.
+1. Buat TextWidget untuk menampilkan teks dengan Textstyle.
+2. Buat ImagesWidget untuk menampilkan logo dari assets.
+3. Gabungkan keduanya di file praktikum.dart dengan Column, ditambah SizedBox sebagai jaraknya.
+4. Panggil Praktikum() di file main.dart dengan Center dan mengatur background nya.
+5. Jalankan hasilnya, teks welcome to poliwangi dan logo poliwangi akan tampil dengan posisi di tengah.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
