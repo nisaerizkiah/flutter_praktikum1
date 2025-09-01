@@ -6,10 +6,8 @@ class ImagesWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Image.asset(
-      'assets/images/logo-poliwangi.png',
-      width: 150,
-      height: 150,
-  );
+      "assets/images/logo-poliwangi.png"
+    );
  }
 }
    
